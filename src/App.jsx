@@ -164,6 +164,12 @@ function App() {
             </CardContent>
           </Card>
           </Box>
+          <Box className="topic" sx={{p:2, mt: 2}}>
+            <Typography variant="h5" gutterBottom>
+              Pantip Pick
+            </Typography>
+            <p style={{ marginTop: '1px', fontSize: '14px' }}>กระทู้คุณภาพคัดเลือกโดยทีมงาน Pantip</p>
+            </Box>
       </Container>
     </>
   )
