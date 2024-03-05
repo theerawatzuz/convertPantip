@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       
-        <Navbar/>
+
         <Container maxWidth="lg">
         <Box sx={{ bgcolor: '#cfe8fc', height: '100vh', mt: 2 }} />
         ไทย
